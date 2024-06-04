@@ -1,0 +1,342 @@
+0: Accordion (đàn tay)
+1: Adhesive tape
+2: Aircraft
+3: Airplane
+4: Alarm clock
+5: Auto part
+6: Axe
+7: Backpack
+8: Ball
+9: Balloon 
+10: Band-aid
+11: Banjo
+12: Barrel
+13: Baseball bat
+14: Baseball glove
+15: Bathroom accessory
+16: Bathroom cabinet
+17: Bathtub
+18: Beaker
+19: Bed
+20: Belt
+21: Bench
+22: Bicycle helmet
+23: Bicycle wheel
+24: Bidet
+25: Billiard table
+26: Binoculars
+27: Blender
+28: Book
+29: Bookcase
+30: Boot
+31: Bottle
+32: Bottle opener
+33: Bow and arrow
+34: Bowl
+35: Bowling equipment
+36: Box
+37: Brassiere
+38: Briefcase
+39: Bronze sculpture
+40: Bust
+41: Cabinetry
+42: Calculator
+43: Camera
+44: Can opener
+45: Candle
+46: Cart
+47: Cassette deck
+48: Cat furniture
+49: Ceiling fan
+50: Cello
+51: Chainsaw
+52: Chair
+53: Chest of drawers
+54: Chime
+55: Chisel
+56: Chopsticks
+57: Christmas tree
+58: Clock
+59: Closet
+60: Coat
+61: Cocktail shaker
+62: Coffee cup
+63: Coffee table
+64: Coffeemaker
+65: Coin
+66: Computer keyboard
+67: Computer monitor
+68: Computer mouse
+69: Container
+70: Cooking spray
+71: Corded phone
+72: Cosmetics
+73: Couch
+74: Countertop
+75: Cowboy hat
+76: Cricket ball
+77: Crown
+78: Crutch
+79: Cupboard
+80: Curtain
+81: Cutting board
+82: Dagger
+83: Desk
+84: Diaper
+85: Dice
+86: Digital clock
+87: Dishwasher
+88: Dog bed
+89: Doll
+90: Door
+91: Door handle
+92: Drawer
+93: Drill (Tool)
+94: Drinking straw
+95: Drum
+96: Dumbbell
+97: Earrings
+98: Envelope
+99: Eraser
+100: Face powder
+101: Facial tissue holder
+102: Fashion accessory
+103: Fax
+104: Fedora
+105: Filing cabinet
+106: Fireplace
+107: Flag
+108: Flashlight
+109: Flowerpot
+110: Flute
+111: Flying disc
+112: Food processor
+113: Football
+114: Football helmet
+115: Footwear
+116: Fork
+117: French horn
+118: Frying pan
+119: Furniture
+120: Gas stove
+121: Glasses
+122: Glove
+123: Goggles
+124: Golf ball
+125: Grinder
+126: Guitar
+127: Hair dryer
+128: Hair spray
+129: Hammer
+130: Hand dryer
+131: Handbag
+132: Handgun
+133: Harmonica
+134: Harp
+135: Harpsichord
+136: Hat
+137: Headphones
+138: Heater
+139: Helicopter
+140: Helmet
+141: High heels
+142: Hiking equipment
+143: Home appliance
+144: Horizontal bar
+145: Humidifier
+146: Indoor rower
+147: Infant bed
+148: Ipod
+149: Jacket
+150: Jacuzzi
+151: Jeans
+152: Jug
+153: Kettle
+154: Kitchen & dining room table
+155: Kitchen appliance
+156: Kitchen knife
+157: Kitchen utensil
+158: Kitchenware
+159: Kite
+160: Knife
+161: Ladder
+162: Ladle
+163: Lamp
+164: Lantern
+165: Laptop
+166: Light bulb
+167: Light switch
+168: Lighthouse
+169: Lipstick
+170: Loveseat
+171: Luggage and bags
+172: Maracas
+173: Measuring cup
+174: Mechanical fan
+175: Medical equipment
+176: Microphone
+177: Microwave oven
+178: Mirror
+179: Mixer
+180: Mixing bowl
+181: Mobile phone
+182: Mug
+183: Musical instrument
+184: Musical keyboard
+185: Nail (Construction)
+186: Necklace
+187: Nightstand
+188: Oboe
+189: Office supplies
+190: Organ (Musical Instrument)
+191: Oven
+192: Paddle
+193: Paper cutter
+194: Paper towel
+195: Parachute
+196: Pen
+197: Pencil case
+198: Pencil sharpener
+199: Perfume
+200: Personal care
+201: Personal flotation device
+202: Piano
+203: Picnic basket
+204: Picture frame
+205: Pillow
+206: Pitcher (Container)
+207: Pizza cutter
+208: Plastic bag
+209: Plate
+210: Platter
+211: Plumbing fixture
+212: Poster
+213: Power plugs and sockets
+214: Pressure cooker
+215: Printer
+216: Punching bag
+217: Racket
+218: Ratchet (Device)
+219: Refrigerator
+220: Remote control
+221: Rifle
+222: Ring binder
+223: Roller skates
+224: Rugby ball
+225: Ruler
+226: Salt and pepper shakers
+227: Sandal
+228: Saucer
+229: Saxophone
+230: Scale
+231: Scarf
+232: Scissors
+233: Scoreboard
+234: Screwdriver
+235: Sculpture
+236: Seat belt
+237: Serving tray
+238: Sewing machine
+239: Shelf
+240: Shirt
+241: Shorts
+242: Shotgun
+243: Shower
+244: Sink
+245: Skateboard
+246: Ski
+247: Skirt
+248: Skull
+249: Slow cooker
+250: Snowboard
+251: Soap dispenser
+252: Sock
+253: Sofa bed
+254: Sombrero
+255: Spatula
+256: Spice rack
+257: Spoon
+258: Sports equipment
+259: Sports uniform
+260: Stairs
+261: Stapler
+262: Stationary bicycle
+263: Stethoscope
+264: Stool
+265: Stretcher
+266: Studio couch
+267: Suit
+268: Suitcase
+269: Sun hat
+270: Sunglasses
+271: Surfboard
+272: Swim cap
+273: Swimming pool
+274: Swimwear 
+275: Sword
+276: Syringe
+277: Table
+278: Table tennis racket
+279: Tablet computer
+280: Tableware
+281: Tap
+282: Teapot
+283: Teddy bear
+284: Telephone
+285: Television
+286: Tennis ball
+287: Tennis racket
+288: Tent
+289: Tiara
+290: Tie
+291: Tin can
+292: Tire
+293: Toaster
+294: Toilet
+295: Toilet paper
+296: Tool
+297: Toothbrush
+298: Torch
+299: Towel
+300: Toy
+301: Training bench
+302: Treadmill
+303: Tripod
+304: Trombone
+305: Trousers
+306: Trumpet
+307: Umbrella
+308: Vase
+309: Vehicle registration plate
+310: Violin
+311: Volleyball (Ball)
+312: Waffle iron
+313: Wall clock
+314: Wardrobe
+315: Washing machine
+316: Waste container
+317: Watch
+318: Weapon
+319: Wheel
+320: Wheelchair
+321: Whisk
+322: Whiteboard
+323: Window
+324: Window blind
+325: Wine glass
+326: Wine rack
+327: Wok
+328: Wood-burning stove
+0: short sleeve top           
+1: long sleeve top             
+2: short sleeve outwear        
+3: long sleeve outwear          
+4: vest                         
+5: sling                       
+6: shorts                       
+7: trousers                    
+8: skirt                      
+9: short sleeve dress          
+10: long sleeve dress           
+11: vest dress                  
+12: sling dress 
